@@ -1,0 +1,441 @@
+[
+    {  "id": 1,
+      "chef_picture": "https://images.pexels.com/photos/3771120/pexels-photo-3771120.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "chef_name": "Maria Rodriguez",
+      "years_of_experience": 12,
+      "number_of_recipes": 85,
+      "likes": 7500,
+      "work_experience": [
+        {
+          "position": "Executive Chef",
+          "company": "La Maison",
+          "start_year": 2015,
+          "end_year": 2021
+        },
+        {
+          "position": "Sous Chef",
+          "company": "Le Jardin",
+          "start_year": 2010,
+          "end_year": 2015
+        }
+      ],
+      "details": {
+        "specialty": "Modern Italian cuisine",
+        "bio": "Maria Rodriguez is an Italian restaurateur and the chef patron of Osteria Francescana, a three-Michelin-star restaurant based in Modena, Italy. He is known for his avant-garde approach to traditional Italian cuisine, using ingredients and techniques from all over the world to create innovative dishes.",
+        "awards": [
+          "James Beard Award for Best Chef: Southwest (2019)",
+          "San Pellegrino World's 50 Best Restaurants (2018, 2019, 2020)"
+        ]
+      },
+      "recipes": [
+        {
+          "recipe_img" : "https://images.unsplash.com/photo-1503764654157-72d979d9af2f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "recipe_name": "Coq au Vin",
+          "ingredients": [
+            "1 chicken, cut into pieces",
+            "6 ounces bacon, chopped",
+            "1 onion, chopped",
+            "3 cloves garlic, minced",
+            "1 bottle red wine"
+          ],
+          "cooking_method": "Preheat oven to 375 degrees F. Mix lemon juice, garlic, olive oil, salt, and pepper in a small bowl. Arrange chicken breasts in a baking dish and pour lemon mixture over them. Bake for 30 minutes or until chicken is cooked through.",
+           "rating": 4.5,
+          "favorite": false
+        },
+        {
+          "recipe_img" : "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "recipe_name": "Ratatouille",
+          "ingredients": [
+            "1 onion, diced",
+            "1 eggplant, diced",
+            "1 zucchini, diced",
+            "1 red bell pepper, diced",
+            "1 can diced tomatoes"
+          ],
+          "cooking_method": "Preheat oven to 400 degrees F. Season salmon fillets with salt, pepper, and lemon juice. Arrange asparagus spears on a baking sheet and drizzle with olive oil. Place salmon fillets on top of asparagus and bake for 15-20 minutes or until salmon is cooked through.",
+          "rating": 5.0,
+          "favorite": true
+        },
+        {
+          "recipe_img" : "https://plus.unsplash.com/premium_photo-1663852706199-52e7cd98468e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Zm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "recipe_name": "Crème Brûlée",
+          "ingredients": [
+            "2 cups heavy cream",
+            "6 egg yolks",
+            "1/2 cup sugar",
+            "1 teaspoon vanilla extract",
+            "1/4 cup turbinado sugar"
+          ],
+          "cooking_method": "Heat oil in a wok or large skillet over high heat. Add sliced beef and stir-fry for 2-3 minutes or until browned. Add chopped broccoli and stir-fry for another 2-3 minutes. Mix soy sauce, honey, garlic, and ginger in a small bowl and pour over beef and broccoli. Stir-fry for an additional minute or until sauce is heated through.",
+          "rating": 4.0,
+          "favorite": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "chef_picture": "https://images.pexels.com/photos/1397514/pexels-photo-1397514.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "chef_name": "Jon David Lee",
+      "years_of_experience": 8,
+      "number_of_recipes": 65,
+      "likes": 4300,
+      "work_experience": [
+        {
+          "position": "Head Chef",
+          "company": "Sushi Bar",
+          "start_year": 2018,
+          "end_year": 2022
+        },
+        {
+          "position": "Sous Chef",
+          "company": "Asian Fusion",
+          "start_year": 2015,
+          "end_year": 2018
+        }
+      ],
+      "details": {
+        "specialty": "Traditional Italian cuisine",
+        "bio": "Jon David Lee is an Italian chef and restaurateur who is based in London. He is known for his expertise in traditional Italian cuisine and has written several cookbooks on the subject. He has also appeared on several television shows, including Jamie Oliver's 'Jamie at Home'.",
+      
+        "awards": ["Michelin Star (2021)"]
+      },
+      "recipes": [
+        {
+          "recipe_img" : "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "recipe_name": "Coq au Vin",
+          "ingredients": [
+            "1 chicken, cut into pieces",
+            "6 ounces bacon, chopped",
+            "1 onion, chopped",
+            "3 cloves garlic, minced",
+            "1 bottle red wine"
+          ],
+          "cooking_method": "In a large Dutch oven, cook the bacon over medium heat until crispy. Remove the bacon and set aside. Add the chicken to the pot and cook until browned on all sides. Remove the chicken and set aside. Add the onion and garlic to the pot and cook until soft. Add the wine and bring to a simmer. Add the chicken and bacon back to the pot and simmer for 1-2 hours, until the chicken is tender. Serve with crusty bread.",
+          "rating": 4.2,
+          "favorite": false
+        },
+        {
+          "recipe_img" : "https://plus.unsplash.com/premium_photo-1663852297516-5c20ed6b1ca4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "recipe_name": "Ratatouille",
+          "ingredients": [
+            "1 onion, diced",
+            "1 eggplant, diced",
+            "1 zucchini, diced",
+            "1 red bell pepper, diced",
+            "1 can diced tomatoes"
+          ],
+          "cooking_method": "In a large Dutch oven, cook the bacon over medium heat until crispy. Remove the bacon and set aside. Add the chicken to the pot and cook until browned on all sides. Remove the chicken and set aside. Add the onion and garlic to the pot and cook until soft. Add the wine and bring to a simmer. Add the chicken and bacon back to the pot and simmer for 1-2 hours, until the chicken is tender. Serve with crusty bread.",
+          "rating": 4.5,
+          "favorite": true
+        },
+        {
+          "recipe_img" : "https://images.unsplash.com/photo-1499028344343-cd173ffc68a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "recipe_name": "Crème Brûlée",
+          "ingredients": [
+            "2 cups heavy cream",
+            "6 egg yolks",
+            "1/2 cup sugar",
+            "1 teaspoon vanilla extract",
+            "1/4 cup turbinado sugar"
+          ],
+          "cooking_method": "In a large Dutch oven, cook the bacon over medium heat until crispy. Remove the bacon and set aside. Add the chicken to the pot and cook until browned on all sides. Remove the chicken and set aside. Add the onion and garlic to the pot and cook until soft. Add the wine and bring to a simmer. Add the chicken and bacon back to the pot and simmer for 1-2 hours, until the chicken is tender. Serve with crusty bread.",
+          "rating": 5.0,
+          "favorite": true
+        }
+      ]
+    },
+    { "id": 3,
+      "chef_picture": "https://images.pexels.com/photos/3217156/pexels-photo-3217156.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "chef_name": "Sophie Chen",
+      "years_of_experience": 15,
+      "number_of_recipes": 120,
+      "likes": 12000,
+      "work_experience": [
+        {
+          "position": "Executive Chef",
+          "company": "Mandarin Palace",
+          "start_year": 2017,
+          "end_year": 2022
+        },
+        {
+          "position": "Sous Chef",
+          "company": "Lotus Garden",
+          "start_year": 2010,
+          "end_year": 2017
+        }
+      ],
+      "details": {
+        "specialty": "Modern Italian cuisine",
+        "bio": "Sophie Chen is an Italian chef and television personality. He is the chef patron of the Michelin-starred restaurant Cracco in Milan, Italy. He is known for his modern interpretation of traditional Italian cuisine, using innovative techniques to create unique flavors and textures.Add the wine and bring to a simmer. Add the chicken and bacon back to the pot and simmer for 1-2 hours, until the chicken is tender. Serve with crusty bread.",
+      
+        "awards": [
+          "Asia's 50 Best Restaurants (2019, 2020, 2021)",
+          "World Gourmet Summit Awards of Excellence (2018)"
+        ]
+      },
+      "recipes": [
+        {
+          "recipe_img" : "https://images.unsplash.com/photo-1515443961218-a51367888e4b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNoZWYlMjBtZWFsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "recipe_name": "Coq au Vin",
+          "ingredients": [
+            "1 chicken, cut into pieces",
+            "6 ounces bacon, chopped",
+            "1 onion, chopped",
+            "3 cloves garlic, minced",
+            "1 bottle red wine"
+          ],
+          "cooking_method": "In a large Dutch oven, cook the bacon over medium heat until crispy. Remove the bacon and set aside. Add the chicken to the pot and cook until browned on all sides. Remove the chicken and set aside. Add the onion and garlic to the pot and cook until soft. Add the wine and bring to a simmer. Add the chicken and bacon back to the pot and simmer for 1-2 hours, until the chicken is tender. Serve with crusty bread.",
+          "rating": 4.5,
+          "favorite": false
+        },
+        {
+          "recipe_img" : "https://images.unsplash.com/photo-1559847844-5315695dadae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGNoZWYlMjBtZWFsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "recipe_name": "Ratatouille",
+          "ingredients": [
+            "1 onion, diced",
+            "1 eggplant, diced",
+            "1 zucchini, diced",
+            "1 red bell pepper, diced",
+            "1 can diced tomatoes"
+          ],
+          "cooking_method": "In a large Dutch oven, cook the bacon over medium heat until crispy. Remove the bacon and set aside. Add the chicken to the pot and cook until browned on all sides. Remove the chicken and set aside. Add the onion and garlic to the pot and cook until soft. Add the wine and bring to a simmer. Add the chicken and bacon back to the pot and simmer for 1-2 hours, until the chicken is tender. Serve with crusty bread.",
+          "rating": 4.0,
+          "favorite": true
+        },
+        {
+          "recipe_img" : "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "recipe_name": "Crème Brûlée",
+          "ingredients": [
+            "2 cups heavy cream",
+            "6 egg yolks",
+            "1/2 cup sugar",
+            "1 teaspoon vanilla extract",
+            "1/4 cup turbinado sugar"
+          ],
+          "cooking_method": "In a large Dutch oven, cook the bacon over medium heat until crispy. Remove the bacon and set aside. Add the chicken to the pot and cook until browned on all sides. Remove the chicken and set aside. Add the onion and garlic to the pot and cook until soft. Add the wine and bring to a simmer. Add the chicken and bacon back to the pot and simmer for 1-2 hours, until the chicken is tender. Serve with crusty bread.",
+          "rating": 4.0,
+          "favorite": true
+        }
+      ]
+    },
+    { "id": 4,
+      "chef_picture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "chef_name": "Lidia Bastianich",
+      "years_of_experience": 20,
+      "number_of_recipes": 200,
+      "likes": 18000,
+      "work_experience": [
+        {
+          "position": "Executive Chef",
+          "company": "Mandarin Palace",
+          "start_year": 2017,
+          "end_year": 2022
+        },
+        {
+          "position": "Sous Chef",
+          "company": "Lotus Garden",
+          "start_year": 2010,
+          "end_year": 2017
+        }
+      ],
+      "details": {
+        "specialty": "Traditional Italian cuisine",
+        "bio": "Lidia Bastianich is an Italian-American chef and television personality. She is the owner and chef of several restaurants in the United States, including Felidia and Becco in New York City. She is known for her expertise in traditional Italian cuisine and has written several cookbooks on the subject.",
+      
+        "awards": [
+          "Asia's 50 Best Restaurants (2019, 2020, 2021)",
+          "World Gourmet Summit Awards of Excellence (2018)"
+        ]
+      },
+      "recipes": [
+        {
+          "recipe_img" : "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "recipe_name": "Coq au Vin",
+          "ingredients": [
+            "1 chicken, cut into pieces",
+            "6 ounces bacon, chopped",
+            "1 onion, chopped",
+            "3 cloves garlic, minced",
+            "1 bottle red wine"
+          ],
+          "cooking_method": "Heat oil in a wok or large skillet over high heat. Add sliced beef and stir-fry for 2-3 minutes or until browned. Add chopped broccoli and stir-fry for another 2-3 minutes. Mix soy sauce, honey, garlic, and ginger in a small bowl and pour over beef and broccoli. Stir-fry for an additional minute or until sauce is heated through.",
+          "rating": 4.5,
+          "favorite": false
+        },
+        {
+          "recipe_img" : "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNoZWYlMjBtZWFsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "ingredients": [
+            "1 onion, diced",
+            "1 eggplant, diced",
+            "1 zucchini, diced",
+            "1 red bell pepper, diced",
+            "1 can diced tomatoes"
+          ],
+          "cooking_method": "Preheat oven to 400 degrees F. Season salmon fillets with salt, pepper, and lemon juice. Arrange asparagus spears on a baking sheet and drizzle with olive oil. Place salmon fillets on top of asparagus and bake for 15-20 minutes or until salmon is cooked through.",
+          "rating": 4.0,
+          "favorite": true
+        },
+        {
+          "recipe_img" : "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "recipe_name": "Crème Brûlée",
+          "ingredients": [
+            "2 cups heavy cream",
+            "6 egg yolks",
+            "1/2 cup sugar",
+            "1 teaspoon vanilla extract",
+            "1/4 cup turbinado sugar"
+          ],
+          "cooking_method": "Preheat oven to 375 degrees F. Mix lemon juice, garlic, olive oil, salt, and pepper in a small bowl. Arrange chicken breasts in a baking dish and pour lemon mixture over them. Bake for 30 minutes or until chicken is cooked through.",
+          "rating": 4.0,
+          "favorite": true
+        }
+      ]
+    },
+    { "id": 5,
+      "chef_picture": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "chef_name": "Antonio Carluccio",
+      "years_of_experience": 8,
+      "number_of_recipes": 65,
+      "likes": 4300,
+      "work_experience": [
+        {
+          "position": "Head Chef",
+          "company": "Sushi Bar",
+          "start_year": 2018,
+          "end_year": 2022
+        },
+        {
+          "position": "Sous Chef",
+          "company": "Asian Fusion",
+          "start_year": 2015,
+          "end_year": 2018
+        }
+      ],
+      "details": {
+        "specialty": "Italian cuisine",
+        "bio": "Antonio Carluccio was an Italian chef, restaurateur and television personality. He was known for his expertise in traditional Italian cuisine and has written several cookbooks on the subject. He was also a regular on BBC television programs, including 'Antonio Carluccio's Italian Feast'.Add the wine and bring to a simmer. Add the chicken and bacon back to the pot and simmer for 1-2 hours, until the chicken is tender. Serve with crusty bread.",
+        "awards": ["Michelin Star (2021)"]
+      },
+      "recipes": [
+        {
+          "recipe_img" : "https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDJ8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "recipe_name": "Coq au Vin",
+          "ingredients": [
+            "1 chicken, cut into pieces",
+            "6 ounces bacon, chopped",
+            "1 onion, chopped",
+            "3 cloves garlic, minced",
+            "1 bottle red wine"
+          ],
+          "cooking_method": "In a large Dutch oven, cook the bacon over medium heat until crispy. Remove the bacon and set aside. Add the chicken to the pot and cook until browned on all sides. Remove the chicken and set aside. Add the onion and garlic to the pot and cook until soft. Add the wine and bring to a simmer. Add the chicken and bacon back to the pot and simmer for 1-2 hours, until the chicken is tender. Serve with crusty bread.",
+          "rating": 4.5,
+          "favorite": false
+        },
+        {
+          "recipe_img" : "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "recipe_name": "Ratatouille",
+          "ingredients": [
+            "1 onion, diced",
+            "1 eggplant, diced",
+            "1 zucchini, diced",
+            "1 red bell pepper, diced",
+            "1 can diced tomatoes"
+          ],
+          "cooking_method": "In a large Dutch oven, cook the bacon over medium heat until crispy. Remove the bacon and set aside. Add the chicken to the pot and cook until browned on all sides. Remove the chicken and set aside. Add the onion and garlic to the pot and cook until soft. Add the wine and bring to a simmer. Add the chicken and bacon back to the pot and simmer for 1-2 hours, until the chicken is tender. Serve with crusty bread.",
+          "rating": 4.0,
+          "favorite": true
+        },
+        {
+          "recipe_img" : "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDZ8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "recipe_name": "Crème Brûlée",
+          "ingredients": [
+            "2 cups heavy cream",
+            "6 egg yolks",
+            "1/2 cup sugar",
+            "1 teaspoon vanilla extract",
+            "1/4 cup turbinado sugar"
+          ],
+          "cooking_method": "Preheat the oven to 325°F.the bacon over medium heat until crispy. Remove the bacon and set aside. Add the chicken to the pot and cook until browned on all sides. Remove the chicken and set aside. Add the onion and garlic to the pot and cook until soft. Add the wine and bring to a simmer. Add the chicken and bacon back to the pot and simmer for 1-2 hours, until the chicken is tender. Serve with crusty bread.",
+          "rating": 4.0,
+          "favorite": true
+        }
+      ]
+    },
+    { "id": 6,
+      "chef_picture": "https://images.pexels.com/photos/8629121/pexels-photo-8629121.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "chef_name": "Jackson Holland",
+      "years_of_experience": 7,
+      "number_of_recipes": 60,
+      "likes": 4000,
+      "work_experience": [
+        {
+          "position": "Head Chef",
+          "company": "Sushi Bar",
+          "start_year": 2018,
+          "end_year": 2022
+        },
+        {
+          "position": "Sous Chef",
+          "company": "Asian Fusion",
+          "start_year": 2015,
+          "end_year": 2018
+        }
+      ],
+      "details": {
+        "specialty": "Modern Italian cuisine",
+        "bio": "Giorgio Locatelli is an Italian chef and restaurateur who is based in London. He is the chef patron of Locanda Locatelli, a Michelin-starred restaurant in London. He is known for his modern interpretation of traditional Italian cuisine, using innovative techniques to create unique flavors and textures.",
+     
+        "awards": ["Michelin Star (2021)"]
+      },
+      "recipes": [
+        {
+          "recipe_img" : "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "recipe_name": "Coq au Vin",
+          "ingredients": [
+            "1 chicken, cut into pieces",
+            "6 ounces bacon, chopped",
+            "1 onion, chopped",
+            "3 cloves garlic, minced",
+            "1 bottle red wine"
+          ],
+          "cooking_method": "In a large Dutch oven, cook the bacon over medium heat until crispy. Remove the bacon and set aside. Add the chicken to the pot and cook until browned on all sides. Remove the chicken and set aside. Add the onion and garlic to the pot and cook until soft. Add the wine and bring to a simmer. Add the chicken and bacon back to the pot and simmer for 1-2 hours, until the chicken is tender. Serve with crusty bread.",
+          "rating": 4.5,
+          "favorite": false
+        },
+        {
+          "recipe_img" : "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+          "recipe_name": "Ratatouille",
+          "ingredients": [
+            "1 onion, diced",
+            "1 eggplant, diced",
+            "1 zucchini, diced",
+            "1 red bell pepper, diced",
+            "1 can diced tomatoes"
+          ],
+          "cooking_method": "Preheat the oven to 325°F.the bacon over medium heat until crispy. Remove the bacon and set aside. Add the chicken to the pot and cook until browned on all sides. Remove the chicken and set aside. Add the onion and garlic to the pot and cook until soft. Add the wine and bring to a simmer. Add the chicken and bacon back to the pot and simmer for 1-2 hours, until the chicken is tender. Serve with crusty bread.",
+          "rating": 4.0,
+          "favorite": true
+        },
+        {
+          "recipe_img" : "https://images.unsplash.com/photo-1675670601305-3e04ec45430f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTAzfHxjaGVmJTIwbWVhbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+          "recipe_name": "Crème Brûlée",
+          "ingredients": [
+            "2 cups heavy cream",
+            "6 egg yolks",
+            "1/2 cup sugar",
+            "1 teaspoon vanilla extract",
+            "1/4 cup turbinado sugar"
+          ],
+          "cooking_method": "Preheat the oven to 325°F. Preheat the oven to 325°F.the bacon over medium heat until crispy. Remove the bacon and set aside. Add the chicken to the pot and cook until browned on all sides. Remove the chicken and set aside. Add the onion and garlic to the pot and cook until soft. Add the wine and bring to a simmer. Add the chicken and bacon back to the pot and simmer for 1-2 hours, until the chicken is tender.",
+          "rating": 4.0,
+          "favorite": true
+        }
+      ]
+    }
+  ]
+
+
+
+
+
+  
